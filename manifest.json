@@ -1,0 +1,19 @@
+{
+    "name":"Medium viewer",
+    "description":"Helps you to read medium articles for free",
+    "version":"0.1.0",
+    "author":"Naveenkumar M",
+    "manifest_version":3,
+    "permissions":[
+        "tabs"
+    ],
+    "action":{
+        "default_popup":"index.html"
+    },
+    "icons":{
+        "16":"icon/16.png",
+        "48":"icon/48.png",
+        "128":"icon/128.png"
+    
+    }
+}
